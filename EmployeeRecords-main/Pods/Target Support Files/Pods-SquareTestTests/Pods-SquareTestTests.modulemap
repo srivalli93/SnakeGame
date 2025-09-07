@@ -1,6 +1,0 @@
-framework module Pods_SquareTestTests {
-  umbrella header "Pods-SquareTestTests-umbrella.h"
-
-  export *
-  module * { export * }
-}
